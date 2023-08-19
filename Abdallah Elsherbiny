@@ -1,0 +1,5 @@
+for i in instructor:
+   if i == "farris":
+       print("give them harder tasks")
+   else:
+       print("NO")
